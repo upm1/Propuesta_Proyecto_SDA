@@ -1,7 +1,7 @@
 # Propuesta_Proyecto_SDA
 
 
-<strong>Nombre del proyecto   : </strong>SARS(sistema automatizado para registro de salidas industriales)<br>
+<strong>Nombre del proyecto   : </strong><br>SARS(sistema automatizado para registro de salidas industriales)<br>
 <br>
 <strong>Integrantes           : </strong><br>Ulises Perez Morales  <br>
                          Anayeli Gonzalez Trejo<br>
