@@ -1,7 +1,7 @@
 # Propuesta_Proyecto_SDA
 Proyecto que realizaremos en la materia de Seguridad en el Desarrollo de Aplicaciones, en equipo
 
-Nombre del proyecto   : 
+<strong>Nombre del proyecto   : </strong>
 <br><br>
 <strong>Integrantes           : </strong><br> Yaracel <br>
                          Anayeli Gonzalez Trejo<br>
@@ -9,10 +9,10 @@ Nombre del proyecto   :
                          Itzel<br>
                          Ulises Perez Morales<br>
 
-Objetivo del proyecto :
+<strong>Objetivo del proyecto :</strong>
 <br>
-Tipos de usuarios     : Usuario Administrador y Usuario Básico 
+<strong>Tipos de usuarios     : </strong>Usuario Administrador y Usuario Básico 
 <br>
-Funcionalidades       : 
+<strong>Funcionalidades       : </strong>
 <br>
-Entorno de desarrollo : Visual Studio Code
+<strong>Entorno de desarrollo :</strong> Visual Studio Code
