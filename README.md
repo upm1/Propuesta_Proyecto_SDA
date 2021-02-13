@@ -13,9 +13,9 @@
 <br>
 <strong>Tipos de usuarios     : </strong><br>Usuario Administrador y Usuario Básico<br> 
 <br>
-<strong>Funcionalidades       : </strong><br>Registro de información, subir archivos, autenticacion con toquen email ...<br>
+<strong>Funcionalidades       : </strong>Registro de información, subir archivos, autenticacion con toquen email ...<br>
 <br>
-<strong>Entorno de desarrollo :</strong><br> Visual Studio Code
+<strong>Entorno de desarrollo :</strong> Visual Studio Code
 
 <hr>
 Proyecto que realizaremos en la materia de Seguridad en el Desarrollo de Aplicaciones, en equipo
