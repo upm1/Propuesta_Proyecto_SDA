@@ -7,7 +7,7 @@ Integrantes           :  Anayeli Gonzalez Trejo
                          Geraldine
                          Itzel
                          Ulises Perez Morales
-
+<br>
 Objetivo del proyecto :
 Tipos de usuarios     : Usuario Administrador y Usuario Básico 
 Funcionalidades       : 
