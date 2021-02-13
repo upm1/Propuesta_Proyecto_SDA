@@ -3,10 +3,10 @@ Proyecto que realizaremos en la materia de Seguridad en el Desarrollo de Aplicac
 
 <strong>Nombre del proyecto   : </strong>
 <br><br>
-<strong>Integrantes           : </strong><br> Yaracel <br>
+<strong>Integrantes           : </strong><br> Yaracel Lechuga Vargas <br>
                          Anayeli Gonzalez Trejo<br>
-                         Geraldine<br>
-                         Itzel<br>
+                         Deysi Geraldine León Cabrera<br>
+                         Laura Itzel Vargas Salas<br>
                          Ulises Perez Morales<br>
 
 <strong>Objetivo del proyecto :</strong>
