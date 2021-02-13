@@ -7,8 +7,9 @@ Integrantes           :  Anayeli Gonzalez Trejo
                          Geraldine
                          Itzel
                          Ulises Perez Morales
-<br>
+
 Objetivo del proyecto :
+<br>
 Tipos de usuarios     : Usuario Administrador y Usuario Básico 
 Funcionalidades       : 
 Entorno de desarrollo : Visual Studio Code
