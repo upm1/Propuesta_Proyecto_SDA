@@ -1,6 +1,6 @@
 # Propuesta_Proyecto_SDA
-Proyecto que realizaremos en la materia de Seguridad en el Desarrollo de Aplicaciones, en equipo
-<hr>
+
+
 <strong>Nombre del proyecto   : </strong>SARS(sistema automatizado para registro de salidas industriales)<br>
 <br>
 <strong>Integrantes           : </strong><br>Ulises Perez Morales  <br>
@@ -16,3 +16,6 @@ Proyecto que realizaremos en la materia de Seguridad en el Desarrollo de Aplicac
 <strong>Funcionalidades       : </strong><br>Registro de información, subir archivos, autenticacion con toquen email ...<br>
 <br>
 <strong>Entorno de desarrollo :</strong><br> Visual Studio Code
+
+<hr>
+Proyecto que realizaremos en la materia de Seguridad en el Desarrollo de Aplicaciones, en equipo
