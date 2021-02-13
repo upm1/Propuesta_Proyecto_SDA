@@ -2,7 +2,7 @@
 Proyecto que realizaremos en la materia de Seguridad en el Desarrollo de Aplicaciones, en equipo
 
 Nombre del proyecto   : 
-<br>
+<br><br>
 Integrantes           : <br> Anayeli Gonzalez Trejo <br>
                          Yaracel<br>
                          Geraldine<br>
