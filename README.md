@@ -9,7 +9,7 @@
                          Laura Itzel Vargas Salas<br>
                          Yaracel Lechuga Vargas<br><br>
 
-<strong>Objetivo del proyecto :</strong><br> Implementar u optimizar algún proceso de mejora dentro de la Universidad Tecnológica de Xicotepec de Juárez<br>
+<strong>Objetivo del proyecto :</strong><br> Automatizar el registro para las salidas industriales mediante el uso de un sitio web (Implementar u optimizar algún proceso de mejora dentro de la Universidad Tecnológica de Xicotepec de Juárez)<br>
 <br>
 <strong>Tipos de usuarios     : </strong><br>Usuario Administrador y Usuario Básico<br> 
 <br>
