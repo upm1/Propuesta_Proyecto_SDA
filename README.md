@@ -3,11 +3,11 @@ Proyecto que realizaremos en la materia de Seguridad en el Desarrollo de Aplicac
 
 <strong>Nombre del proyecto   : </strong>
 <br><br>
-<strong>Integrantes           : </strong><br> Yaracel Lechuga Vargas <br>
+<strong>Integrantes           : </strong><br>Ulises Perez Morales  <br>
                          Anayeli Gonzalez Trejo<br>
                          Deysi Geraldine León Cabrera<br>
                          Laura Itzel Vargas Salas<br>
-                         Ulises Perez Morales<br>
+                         Yaracel Lechuga Vargas<br>
 
 <strong>Objetivo del proyecto :</strong><br> Implementar u optimizar algún proceso de mejora dentro de la Universidad Tecnológica de Xicotepec de Juárez<br>
 <br>
