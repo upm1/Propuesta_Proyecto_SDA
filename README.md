@@ -7,7 +7,7 @@ Proyecto que realizaremos en la materia de Seguridad en el Desarrollo de Aplicac
                          Anayeli Gonzalez Trejo<br>
                          Deysi Geraldine León Cabrera<br>
                          Laura Itzel Vargas Salas<br>
-                         Yaracel Lechuga Vargas<br>
+                         Yaracel Lechuga Vargas<br><br>
 
 <strong>Objetivo del proyecto :</strong><br> Implementar u optimizar algún proceso de mejora dentro de la Universidad Tecnológica de Xicotepec de Juárez<br>
 <br>
