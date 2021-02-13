@@ -3,7 +3,7 @@ Proyecto que realizaremos en la materia de Seguridad en el Desarrollo de Aplicac
 
 Nombre del proyecto   : 
 <br>
-Integrantes           :  Anayeli Gonzalez Trejo <br>
+Integrantes           : <br> Anayeli Gonzalez Trejo <br>
                          Yaracel<br>
                          Geraldine<br>
                          Itzel<br>
