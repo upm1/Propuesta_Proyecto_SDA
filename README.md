@@ -3,7 +3,7 @@ Proyecto que realizaremos en la materia de Seguridad en el Desarrollo de Aplicac
 
 Nombre del proyecto   : 
 <br><br>
-Integrantes           : <br> Yaracel <br>
+<strong>Integrantes           : </strong><br> Yaracel <br>
                          Anayeli Gonzalez Trejo<br>
                          Geraldine<br>
                          Itzel<br>
