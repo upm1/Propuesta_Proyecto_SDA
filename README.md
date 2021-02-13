@@ -11,7 +11,7 @@ Proyecto que realizaremos en la materia de Seguridad en el Desarrollo de Aplicac
 
 <strong>Objetivo del proyecto :</strong> Implementar u optimizar algún proceso de mejora dentro de la Universidad Tecnológica de Xicotepec de Juárez
 <br>
-<strong>Tipos de usuarios     : </strong><p>Usuario Administrador y Usuario Básico 
+<strong>Tipos de usuarios     : </strong>Usuario Administrador y Usuario Básico 
 <br>
 <strong>Funcionalidades       : </strong>
 <br>
