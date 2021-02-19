@@ -3,11 +3,11 @@ _Sistema encargado de gestionar las salidas industriales._
 
 ## Integrantes
 
-*[Ulises Pérez Morales](https://github.com/upm1) 
-*[Anayeli Gonzalez Trejo](https://github.com/ana14624)  
-*Deysi Geraldine León Cabrera
-*Laura Itzel Vargas Salas
-*Yaracel Lechuga Vargas
+* [Ulises Pérez Morales](https://github.com/upm1) 
+* [Anayeli Gonzalez Trejo](https://github.com/ana14624)  
+* Deysi Geraldine León Cabrera.
+* Laura Itzel Vargas Salas.
+* Yaracel Lechuga Vargas.
 <br>
 
 ## Objetivo del proyecto
