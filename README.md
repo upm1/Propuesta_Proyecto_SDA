@@ -5,7 +5,7 @@ _Sistema encargado de gestionar las salidas industriales._
 
 * [Ulises Pérez Morales](https://github.com/upm1) 
 * [Anayeli Gonzalez Trejo](https://github.com/ana14624)  
-* Deysi Geraldine León Cabrera.
+* [Deysi Geraldine León Cabrera](https://github.com/geraldineleon)
 * Laura Itzel Vargas Salas.
 * Yaracel Lechuga Vargas.
 <br>
