@@ -27,7 +27,7 @@ Automatizar el registro para las salidas industriales mediante la implementació
 * CSS. Para complementar los estilos.
 
 <strong>BackEnd:</strong>
-* TypeScript. Por medio de este, se codificará la lógica del proyecto, ya que gracias al framework de Angular se hará uso del modelo, vista, controlador.
+* NodeJS. Para la parte lógica del sistema.
 
 <strong>Base de Datos:</strong>
 * MySQL vs8.0: Ocuparemos un gestor de base de datos relacionales.
