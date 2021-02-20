@@ -11,7 +11,7 @@ _Sistema encargado de gestionar las salidas industriales._
 <br>
 
 ## Objetivo del proyecto
-Automatizar el registro para las salidas industriales mediante la implementación de un sitio web donde se llenara la información correspondiente y comprobantes de pago. 
+Automatizar el registro para las salidas industriales mediante la implementación de un sitio web donde se permita registrar toda la información y subir los archivos necesarios de cada salida industrial y toda la información de los alumnos, De esta forma facilitara el control de las salidas y podrá solucionar el problema de descontrol de la universidad.
 <br>
 ## Tipos de usuarios
 * Usuario Administrador: Encargado de gestionar y manipular la información de todo el sistema.
@@ -20,6 +20,10 @@ Automatizar el registro para las salidas industriales mediante la implementació
 * Regitro de información
 * Subir archivos
 * Autenticacion con toquen email
+* El sistema debe actuar ante cualquier error o dar aviso de alguna falla.
+* El sistema debe de almacenar toda la información.
+* El sistema debe de tener un respaldo por cualquier situación.
+
 ## Entorno de desarrollo
 <strong>FrontEnd:</strong>
 * Angular Vs11.2.1. Se utilizará este framework para la creación de un sistema basado en MVC (Modelo, Vista, Controlador).
