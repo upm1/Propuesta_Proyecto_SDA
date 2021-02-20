@@ -33,6 +33,18 @@ Automatizar el registro para las salidas industriales mediante la implementació
 * MySQL vs8.0: Ocuparemos un gestor de base de datos relacionales.
 
 ## Wireframe
+<p>Inicio de sesión</p>
+<p align="center"><img src="https://github.com/upm1/Propuesta_Proyecto_SDA/blob/main/login.jfif"/></p>
+
+<p>Inicio</p>
+<p align="center"><img src="https://github.com/upm1/Propuesta_Proyecto_SDA/blob/main/Inicio.jfif"/></p>
+
+<p>Formulario</p>
+<p align="center"><img src="https://github.com/upm1/Propuesta_Proyecto_SDA/blob/main/formulario.jfif"/></p>
+
+<p>Acerca de</p>
+<p align="center"><img src="https://github.com/upm1/Propuesta_Proyecto_SDA/blob/main/conocenos.jfif"/></p>
+
 
 <hr>
 Proyecto que realizaremos en la materia de Seguridad en el Desarrollo de Aplicaciones, en equipo
