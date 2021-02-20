@@ -45,6 +45,9 @@ Automatizar el registro para las salidas industriales mediante la implementació
 <p>Acerca de</p>
 <p align="center"><img src="https://github.com/upm1/Propuesta_Proyecto_SDA/blob/main/conocenos.jfif"/></p>
 
+## Back-end
+
+## Base de datos
 
 <hr>
 Proyecto que realizaremos en la materia de Seguridad en el Desarrollo de Aplicaciones, en equipo
