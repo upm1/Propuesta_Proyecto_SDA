@@ -55,6 +55,7 @@ Mostrará la información de contacto de la carrera y de la universidad
 ## Back-end
 
 ## Base de datos
+<p align="center"><img src="https://github.com/upm1/Propuesta_Proyecto_SDA/blob/main/estructura_base_de_datos_backEnd.png"/></p>
 
 <hr>
 Proyecto que realizaremos en la materia de Seguridad en el Desarrollo de Aplicaciones, en equipo
