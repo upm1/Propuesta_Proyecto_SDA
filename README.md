@@ -41,12 +41,15 @@ Automatizar el registro para las salidas industriales mediante la implementació
 <p align="center"><img src="https://github.com/upm1/Propuesta_Proyecto_SDA/blob/main/login.jfif"/></p>
 
 <p>Inicio</p>
+Se mostrará la información más relevante en ese momento.
 <p align="center"><img src="https://github.com/upm1/Propuesta_Proyecto_SDA/blob/main/Inicio.jfif"/></p>
 
 <p>Formulario</p>
+Se registrará toda la información acerca del alumno y se seleccionará la salida industrial que desea (solo aparecerán las que sean validas para el usuario). 
 <p align="center"><img src="https://github.com/upm1/Propuesta_Proyecto_SDA/blob/main/formulario.jfif"/></p>
 
 <p>Acerca de</p>
+Mostrará la información de contacto de la carrera y de la universidad
 <p align="center"><img src="https://github.com/upm1/Propuesta_Proyecto_SDA/blob/main/conocenos.jfif"/></p>
 
 ## Back-end
