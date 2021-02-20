@@ -31,5 +31,8 @@ Automatizar el registro para las salidas industriales mediante la implementació
 
 <strong>Base de Datos:</strong>
 * MySQL vs8.0: Ocuparemos un gestor de base de datos relacionales.
+
+## Wireframe
+
 <hr>
 Proyecto que realizaremos en la materia de Seguridad en el Desarrollo de Aplicaciones, en equipo
