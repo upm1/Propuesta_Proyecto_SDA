@@ -1,7 +1,7 @@
 # SARSI(Sistema Automatizado para Registro de Salidas Industriales)
 _Sistema encargado de gestionar las salidas industriales._
 
-## Integrantes
+## Integrantes:
 
 * [Ulises Pérez Morales](https://github.com/upm1) 
 * [Anayeli Gonzalez Trejo](https://github.com/ana14624)  
